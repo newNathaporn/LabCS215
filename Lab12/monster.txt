@@ -1,0 +1,9 @@
+monsterA 100 42
+monsterB 100 25
+monsterC 100 30
+monsterD 200 15
+monsterB 100 25
+monsterA 100 42
+monsterB 100 25
+monsterC 100 30
+monsterD 200 15

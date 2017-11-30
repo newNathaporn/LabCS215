@@ -1,0 +1,14 @@
+monsterA monsterB
+monsterC monsterB
+monsterC monsterD
+monsterB monsterA
+monsterB monsterC
+monsterC monsterD
+monsterD monsterA
+monsterB monsterC
+monsterC monsterA
+monsterC monsterD
+monsterD monsterA
+monsterD monsterB
+monsterB monsterA
+monsterB monsterC
